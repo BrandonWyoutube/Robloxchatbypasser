@@ -1,15 +1,13 @@
-/* Reset default styles */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* Basic styles for the page */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #oa6522; /* Peach background color */
+    background-color: #oa6522;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,10 +15,10 @@ body {
 }
 
 .container {
-    max-width: 300px; /* Narrower container */
+    max-width: 300px;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9); /* Light color with transparency */
-    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
