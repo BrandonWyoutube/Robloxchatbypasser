@@ -23,9 +23,9 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-family: 'Segoe UI', sans-serif;
 }
 
@@ -42,11 +42,11 @@ select {
 button {
     display: block;
     width: 100%;
-    padding: 12px;
+    padding: 20px;
     background-color: #ff7e5f;
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 12px;
     cursor: pointer;
     font-size: 16px;
     margin-top: 10px;
